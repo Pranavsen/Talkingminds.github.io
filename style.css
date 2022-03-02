@@ -1,0 +1,49 @@
+
+
+
+.nav-link{
+    font-size: 1.3rem;
+}
+#logo{
+    padding-left: 2px;
+}
+#about{
+    background-color: #a1a105;
+    font-size: 20px;
+}
+#session{
+    background-color: #79a1a6;
+    font-size: 20px;
+}
+#books{
+    background-color: rgb(198 142 0);
+    font-size: 20px;
+}
+#laughter{
+    background-color: #ce9b9b;
+    font-size: 20px;
+}
+#activity{
+    font-size: 20px;
+    background-color: #e2ab28;
+}
+.container p{
+    font-family: 'Open Sans', sans-serif;
+}
+#playlist{
+    background-color: rgb(174 163 249);
+}
+#playlist p{
+    font-family: 'Open Sans', sans-serif;
+}
+#team{
+    background-color: #e3e3e3;
+}
+#team p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#footer{
+    color: white;
+    background-color: black;
+}
